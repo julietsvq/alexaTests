@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AlexaTests/packages/Newtonsoft.Json.7.0.1
+/AlexaTests/packages/Microsoft.Net.Compilers.1.0.0/tools
+/AlexaTests/packages/Microsoft.Net.Compilers.1.0.0
+/AlexaTests/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools
+/AlexaTests/packages
+/AlexaTests/AlexaTests/obj/Debug
+/AlexaTests/AlexaTests/Properties
+/AlexaTests/AlexaTests/bin
+/AlexaTests/.vs/config
